@@ -1,4 +1,3 @@
-import React from 'react';
 import { initialFriends } from '../data/';
 import Friend from './Friend';
 
