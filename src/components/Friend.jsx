@@ -17,7 +17,7 @@ const Friend = ({ friend }) => {
         <p>You and {friend.name} are even</p>
       )}
 
-      <Button>Select</Button>
+      <Button>Select Friend</Button>
     </li>
   );
 };
