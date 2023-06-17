@@ -31,7 +31,7 @@ const FormAddFriend = ({ onAddFriend }) => {
         value={name}
         onChange={(e) => setName(e.target.value)}
       />
-      <label>🏙️ image</label>
+      <label>🏙️ add image here</label>
       <input
         type="text"
         value={image}
